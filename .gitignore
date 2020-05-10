@@ -235,3 +235,4 @@ cython_debug/
 .idea/modules.xml
 .idea/other.xml
 .idea/vcs.xml
+/data/counts.txt
