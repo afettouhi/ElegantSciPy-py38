@@ -236,3 +236,4 @@ cython_debug/
 .idea/other.xml
 .idea/vcs.xml
 /data/counts.txt
+/data/dm6.fa
